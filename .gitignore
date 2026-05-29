@@ -1,0 +1,7 @@
+# .NET build artifacts
+dotnet/bin/
+dotnet/obj/
+
+# Generated test artifacts
+keypair.json
+output.json
